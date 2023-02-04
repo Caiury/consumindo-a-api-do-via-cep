@@ -8,13 +8,14 @@ url:  POST v1/consulta-endereco
 {
 
 "cep": "01001000"
+
 }
 
 
 * RESPONSE HTTP 200
 
 
-{
+}
 
 "cep": "01001-000",
 
@@ -31,7 +32,7 @@ url:  POST v1/consulta-endereco
 
 "frete": 7.85
 
-}
+{
 
 a documentação é gerada ao subir o projeto , por padrão ele usa a porta 8080 : 
 
